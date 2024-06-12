@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Apache Foundation 9.0/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Apache Foundation 9.0/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/Apache Foundation 9.0/commons-io-2.15.1/commons-io-2.15.1.jar"/>
+	<classpathentry kind="lib" path="D:/oracleaz/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/Apache Foundation 9.0/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Apache Foundation 9.0/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/sevlet all jar files"/>
+	<classpathentry kind="lib" path="D:/oracleaz/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc5.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

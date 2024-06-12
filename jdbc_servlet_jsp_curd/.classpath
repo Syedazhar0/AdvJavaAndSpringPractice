@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="D:/oracleaz/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="D:/Apache Foundation 9.0/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="src/main/webapp/WEB-INF/lib"/>
+</classpath>
